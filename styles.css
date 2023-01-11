@@ -1,7 +1,13 @@
-.item-1{
-	height:100px;
+.item{
 	width:100px;
-	background-color:navajowhite;
+	height:100px;
+	background-color:paleturquoise;
+}
+.holder{
+	display:flex;
+	flex-wrap:wrap;
+}
+#item-1{
 	margin:auto;
 }
 
