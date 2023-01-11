@@ -1,11 +1,14 @@
 
 .holder{
+	width: 200px;
+	height:200px;
+     border: 1px solid #2d2d2d;
 	display:flex;
-	
+    margin:auto;
+	justify-content: center;
+  align-items: center;
 }
-#item-1{
-	margin:auto;
-}
+
 
 
 /* Your CSS Code here. */
